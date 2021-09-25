@@ -1,0 +1,43 @@
+.page-op{
+    background: url(images/background.jpg);
+    height: 500px;
+    background-size: cover;
+}
+
+.toad{
+    width: 100px;
+    position: absolute;
+    margin-left: 200px;
+    margin-top: 20px;
+
+
+}
+.oad{
+    
+        width: 100px;
+        position: absolute;
+        margin-left: 330px;
+    margin-top: 20px;
+}
+.tooad{
+    width: 100px;
+    position:absolute ;
+    margin-left: 200px;
+    margin-top: 150px;
+
+}
+.toda{
+    width: 100px;
+    position: absolute;
+    margin-left: 330px;
+    margin-top: 150px;
+}
+.ugly{
+    width: 600px;
+    background-color: white;
+    height: 400px;
+    margin-left: 200px;
+    position: absolute;
+    bottom: -20px;
+    
+}
